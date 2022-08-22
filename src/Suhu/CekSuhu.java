@@ -26,6 +26,7 @@ public class CekSuhu {
             return "Gosong";
         } else {
             return null;
+//test
         }
     }
 }
